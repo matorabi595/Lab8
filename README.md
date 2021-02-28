@@ -3,7 +3,7 @@
 Cypress and Jest weren't working too well together
 so we've separated the two out in different parts
 
-## <b>https://matorabi595.github.io/Lab8/</b>
+## <b>https://github.com/matorabi595/Lab8</b>
 
 <b>Gary Li   A16029472</b> 
 
